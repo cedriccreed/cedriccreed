@@ -5,6 +5,10 @@
   Creando experiencias web modernas, seguras y enfocadas en el usuario
 </p>
 
+<p align="center">
+  <em>Frontend Developer | Apasionado por la Ciberseguridad — Buenas prácticas, código limpio y seguridad siempre presentes.</em>
+</p>
+
 ---
 
 ## 🧑‍💻 Sobre Mí
