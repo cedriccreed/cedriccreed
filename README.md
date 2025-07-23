@@ -33,7 +33,7 @@
 
 - Desarrollo de **landing pages visuales y seguras**  
 - Proyectos personales orientados a la **seguridad web y buenas prácticas**  
-- Construcción de mi **portafolio web personal** (en proceso)  
+- Construcción de mi **portafolio web personal** (https://portafolio-cedric.vercel.app/)
 
 ---
 
